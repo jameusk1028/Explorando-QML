@@ -1,6 +1,6 @@
 # Introducción y motivación
 
-El **Quantum Machine Learning (QML)** surge como un campo emergente que combina la computación cuántica y el aprendizaje automático, con el objetivo de aprovechar los principios cuánticos para resolver problemas complejos de manera más eficiente que los métodos clásicos.
+El Quantum Machine Learning (QML) surge como un campo emergente que combina la computación cuántica y el aprendizaje automático, con el objetivo de aprovechar los principios cuánticos para resolver problemas complejos de manera más eficiente que los métodos clásicos.
 
 ## ¿Qué es QML y por qué es relevante?
 El QML busca utilizar qubits, superposición y entrelazamiento para procesar grandes volúmenes de información de una forma que sería imposible para un computador clásico.  
